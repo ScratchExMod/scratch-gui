@@ -1,3 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="1" height="1">
-  <!-- help design me! -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <rect width="400" height="400" fill="#FDB827" />
+  <path d="M200 50l-50 100h100zm0 300l-50-100h100zm-100-100h200v-100h-200zm0 0" fill="#FF3D00" />
+  <text x="200" y="225" text-anchor="middle" font-family="Arial, sans-serif" font-size="60" font-weight="bold" fill="#FFFFFF">ScratchEX</text>
 </svg>
